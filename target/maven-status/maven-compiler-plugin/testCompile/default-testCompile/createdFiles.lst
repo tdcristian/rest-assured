@@ -1,4 +1,6 @@
-stepdefs\SearchByCountryNameStepDefs.class
+stepdefs\AlphaCodeEndpointStepDefs.class
 models\Country.class
+stepdefs\CommonStefDefs.class
+stepdefs\SearchByCountryNameStepDefs.class
 RunnerIT.class
 world\World.class
